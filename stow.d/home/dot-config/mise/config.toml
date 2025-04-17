@@ -1,5 +1,6 @@
 [settings]
 auto_install = true
+experimental = true
 
 [tools]
 bun = "latest"
